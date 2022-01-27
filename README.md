@@ -1,4 +1,4 @@
-### Hey! My Name is Akshay!
+### Hey! Thanks for checking out my github profile!
 
 <!--
 **akshayakula/akshayakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
