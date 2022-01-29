@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshayakula&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayakula&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayakula&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
