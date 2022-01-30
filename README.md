@@ -1,4 +1,5 @@
-### Hey! Thanks for checking out my github profile!
+## Hey! Thanks for checking out my github profile!
+#### [My Resume](http://akshayakula.com/AkshayResume.pdf)
 
 <!--
 **akshayakula/akshayakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
